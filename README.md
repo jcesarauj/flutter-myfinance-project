@@ -1,6 +1,6 @@
 # myfinance
 
-A new Flutter project.
+Personal project for financial control
 
 ## Getting Started
 
